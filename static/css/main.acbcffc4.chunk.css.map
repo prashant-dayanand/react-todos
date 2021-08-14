@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,EACE,YACF,CACA,WACC,eAAgB,CAChB,SACD","file":"main.acbcffc4.chunk.css","sourcesContent":["* {\n  outline: none;\n}\n.container {\n\tmax-width: 720px;\n\twidth: 90%;\n}\n"]}
